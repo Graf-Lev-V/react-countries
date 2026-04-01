@@ -13,7 +13,11 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="users/:id" element={<Users />} />
+<<<<<<< HEAD
           <Route path="users" element={<Navigate to="1" />} />
+=======
+          <Route path="users" element={<Navigate to="/users/1" />} />
+>>>>>>> 445306c8747571997213edf25544a8468bf9ceb7
           <Route path="*" element={<NotFound />} />
           <Route path="profile" element={<Profile />} />
         </Route>
