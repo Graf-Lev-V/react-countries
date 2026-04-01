@@ -1,5 +1,7 @@
 # First React Practice Project
 
+Site: [https://github.com/Graf-Lev-V/react-countries](https://graf-lev-v.github.io/react-countries/)
+
 This is my first React project, built to practice the core React concepts from scratch.
 
 In this project, I learned and practiced:
